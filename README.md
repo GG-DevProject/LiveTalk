@@ -1,7 +1,5 @@
 # LiveTalk
 
----
-
 ### 1. **Estrutura Geral do Projeto**
 
 ```
@@ -301,7 +299,7 @@ Essas são as bibliotecas para construir esta aplicação.
 
 ### 7. **Estrutura do MySQL**
 
-```
+```mysql
 CREATE DATABASE live_talk;
 USE live_talk;
 
