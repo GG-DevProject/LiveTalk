@@ -111,15 +111,17 @@ Frontend (React)
    │ (requisição HTTP ou WebSocket)
    │
    ▼
+
 Backend (Node.js)
    │
    ├── AuthController (Login)
    ├── MessageController (Enviar/Receber Mensagens)
-   └── VideoSocket (Gerenciar Chamada de Vídeo)
+   ├── VideoSocket (Gerenciar Chamada de Vídeo)
    │
    │ (conexão com o banco)
    │
    ▼
+
 MySQL Database
    │
    ├── users (usuários)
