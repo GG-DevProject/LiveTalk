@@ -6,6 +6,7 @@
 
 ```
 LiveTalk Project
+
 │
 ├── /frontend (React ou Vue.js)
 │   │
@@ -145,3 +146,5 @@ MySQL Database
 2. **Backend**: Responsável pela autenticação, controle de mensagens e gestão de chamadas de vídeo.
 3. **Banco de Dados**: Armazena dados dos usuários, mensagens e informações de chamadas de vídeo.
 4. **WebSocket (Tempo Real)**: Permite a troca de mensagens e comunicação de vídeo sem atrasos.
+
+---
